@@ -1,0 +1,51 @@
+.footer {
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    background: #283353;
+    color: #fff;
+    position: fixed;
+    bottom: 0px;
+    padding: 13px;
+}
+
+.judul {
+    text-align: center;
+    font-family: sans-serif;
+    color: #fff;
+}
+h1 {
+    text-align: center;
+    font-family: verdana;
+    font-size: 115px;
+    margin-top: 140px;
+}
+
+h2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: yellowgreen;
+    font-family: monospace;
+}
+ h5 {
+    font-family: copperplate;
+    text-align: center;
+}
+
+h6{
+    font-family: didot;
+    font-size: 30px;
+}
+
+.navbar-brand{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.container{
+    text-align: justify;
+    text-align: center;
+}
+
